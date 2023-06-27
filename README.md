@@ -12,6 +12,9 @@ A **Mastermind** egy logikai társasjáték, amelyben egy játékosnak el kell t
    - Ha a játékos tippje tartalmaz olyan színeket, amelyek megtalálhatóak a generált színsorozatban és a megfelelő helyen vannak, a játékos fekete visszajelzést kap.
 4. A játék addig folytatódik, amíg a játékos el nem találja a színsorozatot vagy a próbálkozások száma eléri a 10-et.
 
+![screenshot](https://raw.githubusercontent.com/KKrisztofer/Mastermind/main/Screenshots/01.png)
+![screenshot](https://raw.githubusercontent.com/KKrisztofer/Mastermind/main/Screenshots/02.png)
+
 # Mastermind Game
 
 Mastermind is a logic board game where one player must guess the color sequence preselected by another player. In my implementation, this color sequence is randomly generated. It is a single-player game.
